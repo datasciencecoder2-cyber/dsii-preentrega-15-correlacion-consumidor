@@ -1,0 +1,22 @@
+{
+  "origen": "sintetico_20261031",
+  "filas_analizadas": 253,
+  "filas_crudas": 262,
+  "outliers_importe_iqr": 13,
+  "metodo_elegido": "Spearman",
+  "coeficientes": {
+    "pearson": {
+      "completo": 0.230503,
+      "sensibilidad_sin_iqr": 0.895736
+    },
+    "spearman": {
+      "completo": 0.828477,
+      "sensibilidad_sin_iqr": 0.875733
+    },
+    "kendall": {
+      "completo": 0.698398,
+      "sensibilidad_sin_iqr": 0.716378
+    }
+  },
+  "advertencia": "Correlacion no implica causalidad; dataset simulado"
+}

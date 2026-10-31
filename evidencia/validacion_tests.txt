@@ -1,0 +1,17 @@
+test_01_reproducibilidad_semilla (test_analisis.TestCorrelaciones.test_01_reproducibilidad_semilla) ... ok
+test_02_estructura_y_cantidad (test_analisis.TestCorrelaciones.test_02_estructura_y_cantidad) ... ok
+test_03_deduplicacion_identificador (test_analisis.TestCorrelaciones.test_03_deduplicacion_identificador) ... ok
+test_04_nulos_criticos_controlados (test_analisis.TestCorrelaciones.test_04_nulos_criticos_controlados) ... ok
+test_05_variable_de_fecha_parseada (test_analisis.TestCorrelaciones.test_05_variable_de_fecha_parseada) ... ok
+test_06_iqr_y_13_registros (test_analisis.TestCorrelaciones.test_06_iqr_y_13_registros) ... ok
+test_07_extremos_controlados (test_analisis.TestCorrelaciones.test_07_extremos_controlados) ... ok
+test_08_tres_coeficientes_finitos (test_analisis.TestCorrelaciones.test_08_tres_coeficientes_finitos) ... ok
+test_09_spearman_robusto_en_escenario (test_analisis.TestCorrelaciones.test_09_spearman_robusto_en_escenario) ... ok
+test_10_sensibilidad_pearson (test_analisis.TestCorrelaciones.test_10_sensibilidad_pearson) ... ok
+test_11_diagnostico_normalidad (test_analisis.TestCorrelaciones.test_11_diagnostico_normalidad) ... ok
+test_12_integridad_entrada_provoca_error (test_analisis.TestCorrelaciones.test_12_integridad_entrada_provoca_error) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.018s
+
+OK

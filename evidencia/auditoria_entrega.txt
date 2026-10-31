@@ -1,0 +1,7 @@
+AUDITORIA PRE-ENTREGA 15 - DATA SCIENCE II
+Dataset simulado: 262 filas iniciales; 2 duplicados; 7 faltantes; 253 filas analizadas.
+IQR: 13 outliers; Pearson 0.231; Spearman 0.828; Kendall 0.698.
+Notebook: 25 celdas; 13 celdas de código; 8 gráficos embebidos; 0 errores.
+Figuras PNG exportadas: 8.
+Tests de unidad: 12/12 PASS.
+Límites: resultados sintéticos, descriptivos y no causales.
